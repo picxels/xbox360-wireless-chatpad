@@ -1,0 +1,5 @@
+# Downloaded native runtime / NuGet cache
+vigem/
+vigemclient.dll
+*.log
+*.txt
